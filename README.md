@@ -9,3 +9,17 @@ Jony construiu um algoritmo de aprendizagem de máquina para gerar imagens dado 
 Compartilhando sua tristeza com Alexa, ela também não soube o que fazer. Foi dormir. Sonhou com a resposta. Animadamente, contou para Jony seu sonho. Jony ficou com raiva de não ter pensado isso antes. Para compilar melhor as ideias, Jony e Alexa montaram o seguinte diagrama: 
 
 ![Diagrama](./assets/lazyprocess.png)
+
+## Como executar o exemplo?
+
+Primeiramente, clone o repositórioÇ
+
+`git clone https://github.com/pab-h/lazyprocess.git`
+
+Na pasta do projeto, 
+
+`poetry init`
+
+Na pasta `lazyprocess`, execute:
+
+`poetry run flask run`
