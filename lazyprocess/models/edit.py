@@ -4,4 +4,4 @@ from dataclasses import dataclass
 class Edit(object): 
     origin: str
     destiny: str
-    version: list[str]
+    versions: list[str]
